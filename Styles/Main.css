@@ -1,0 +1,33 @@
+
+header{
+	text-align:center;
+}
+
+h1{  
+	color: #ffffff;
+	margin: 10px }
+p{ color: #ffffff; }
+
+body {
+    background-color: #444444;
+    max-width: 800px;
+    padding: 40px;
+    border: 6px solid #666666;
+}
+a{ color: #07d29b; }
+
+img{
+	float: right;
+	display: block;
+    margin-left: 15px;
+    width: 200px;
+    border: 1px solid #777777;
+    padding: 3px;
+}
+.sans{
+	font-family: arial,sans-serif ;}
+
+.active{
+	color:#ffffff;
+	pointer-events: none;
+}
